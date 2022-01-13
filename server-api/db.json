@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": "3aad91b4-cb4c-485d-8b47-cdbde3b3c120",
+      "name": "Gerlie Rapirap",
+      "email": "gerlie@gmail.com"
+    },
+    {
+      "id": "6ad0353a-1d99-4643-bbca-72dce60a6694",
+      "name": "Leonardo Rapirap",
+      "email": "leorapirap@gmail.com"
+    },
+    {
+      "id": "a022fbee-80e6-43e0-aeef-f15912cedfe4",
+      "name": "Masterplan",
+      "email": "masterplan@outlook.com"
+    },
+    {
+      "id": "07dc13a0-b95e-45b7-b149-809b5478d39b",
+      "name": "Buster Davis",
+      "email": "busterdavis2012@gmail.com"
+    },
+    {
+      "id": "11cd36ef-457d-4607-bf42-ca96eea37e1a",
+      "name": "Matt Rapirap",
+      "email": "ihodematt@yahoo.com"
+    }
+  ]
+}
